@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guard4534</h1>
+<h1 align="center">Hi 👋, I'm Michele Marretti</h1>
 <h3 align="center">A passionate back-end Developer from Italy</h3>
 
 - 🔭 I’m currently working on [PHPBotApi](https://github.com/PHPBotApi)
@@ -19,4 +19,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Guard4534"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Guard4534" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guard4534&show_icons=true&theme=dracula&locale=en" alt="guard4534" /></p>
 

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michele Marretti</h1>
 <h3 align="center">A passionate back-end Developer from Italy</h3>
 
-- 🔭 I’m currently working on [PHPBotApi](https://github.com/PHPBotApi)
-
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Guard4534](https://github.com/Guard4534)
